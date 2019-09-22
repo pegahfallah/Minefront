@@ -1,6 +1,6 @@
 # Minefront
 3D Java Game 
-![](minefront.gif)
+![](giphy.gif)
 
 # What I learned 
 - Java project structure
