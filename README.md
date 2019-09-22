@@ -7,3 +7,4 @@
 - Handling user Inputs 
 - Animations in Java
 - Basic 3D game development from scratch ! 
+- FPS and efficiency of program
